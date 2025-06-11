@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr  3 13:28:37 2025
+# Process ID: 26908
+# Current directory: C:/Users/greenjok/Documents/ECE211_Lab0/Knycalus and Efe ECE 211 Lab 7/Knycalus and Efe ECE 211 Lab 7.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/greenjok/Documents/ECE211_Lab0/Knycalus and Efe ECE 211 Lab 7/Knycalus and Efe ECE 211 Lab 7.sim/sim_1/behav/xsim/xsim.dir/lab07_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/greenjok/Documents/ECE211_Lab0/Knycalus and Efe ECE 211 Lab 7/Knycalus and Efe ECE 211 Lab 7.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/greenjok/Documents/ECE211_Lab0/Knycalus and Efe ECE 211 Lab 7/Knycalus and Efe ECE 211 Lab 7.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/greenjok/Documents/ECE211_Lab0/Knycalus -notrace

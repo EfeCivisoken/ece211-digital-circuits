@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Apr 10 15:30:55 2025
+# Process ID: 10904
+# Current directory: C:/Users/iviskena/Desktop/lab08 demo files/project_1/project_1.runs/impl_1
+# Command line: vivado.exe -log counter_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source counter_display.tcl -notrace
+# Log file: C:/Users/iviskena/Desktop/lab08 demo files/project_1/project_1.runs/impl_1/counter_display.vdi
+# Journal file: C:/Users/iviskena/Desktop/lab08 demo files/project_1/project_1.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source counter_display.tcl -notrace

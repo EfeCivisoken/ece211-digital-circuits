@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="lab07_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="lab07_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="4994fs"></ZoomStartTime>
+      <ZoomEndTime time="5002fs"></ZoomEndTime>
+      <Cursor1Time time="5000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="106"></NameColumnWidth>
+      <ValueColumnWidth column_width="64"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="4" />
+   <wvobject fp_name="/lab07_tb/IN" type="array">
+      <obj_property name="ElementShortName">IN[6:0]</obj_property>
+      <obj_property name="ObjectShortName">IN[6:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab07_tb/CC" type="array">
+      <obj_property name="ElementShortName">CC[2:0]</obj_property>
+      <obj_property name="ObjectShortName">CC[2:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF0000</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab07_tb/DR" type="array">
+      <obj_property name="ElementShortName">DR[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DR[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab07_tb/DC" type="array">
+      <obj_property name="ElementShortName">DC[3:0]</obj_property>
+      <obj_property name="ObjectShortName">DC[3:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+</wave_config>

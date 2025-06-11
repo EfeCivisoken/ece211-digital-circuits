@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Knycalus and Efe ECE 211 Lab 7.srcs/sources_1/new/error_corrector.sv" \
+"../../../../Knycalus and Efe ECE 211 Lab 7.srcs/sources_1/new/error_position_indicator.sv" \
+"../../../../../../../Downloads/lab07_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
